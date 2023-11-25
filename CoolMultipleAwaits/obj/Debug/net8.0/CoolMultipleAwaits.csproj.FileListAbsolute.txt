@@ -1,0 +1,14 @@
+C:\Users\pim\Desktop\Rc4jV_3wFi4-6a3463525f567733466934395239666a\CoolMultipleAwaits\bin\Debug\net8.0\CoolMultipleAwaits.exe
+C:\Users\pim\Desktop\Rc4jV_3wFi4-6a3463525f567733466934395239666a\CoolMultipleAwaits\bin\Debug\net8.0\CoolMultipleAwaits.deps.json
+C:\Users\pim\Desktop\Rc4jV_3wFi4-6a3463525f567733466934395239666a\CoolMultipleAwaits\bin\Debug\net8.0\CoolMultipleAwaits.runtimeconfig.json
+C:\Users\pim\Desktop\Rc4jV_3wFi4-6a3463525f567733466934395239666a\CoolMultipleAwaits\bin\Debug\net8.0\CoolMultipleAwaits.dll
+C:\Users\pim\Desktop\Rc4jV_3wFi4-6a3463525f567733466934395239666a\CoolMultipleAwaits\bin\Debug\net8.0\CoolMultipleAwaits.pdb
+C:\Users\pim\Desktop\Rc4jV_3wFi4-6a3463525f567733466934395239666a\CoolMultipleAwaits\obj\Debug\net8.0\CoolMultipleAwaits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pim\Desktop\Rc4jV_3wFi4-6a3463525f567733466934395239666a\CoolMultipleAwaits\obj\Debug\net8.0\CoolMultipleAwaits.AssemblyInfoInputs.cache
+C:\Users\pim\Desktop\Rc4jV_3wFi4-6a3463525f567733466934395239666a\CoolMultipleAwaits\obj\Debug\net8.0\CoolMultipleAwaits.AssemblyInfo.cs
+C:\Users\pim\Desktop\Rc4jV_3wFi4-6a3463525f567733466934395239666a\CoolMultipleAwaits\obj\Debug\net8.0\CoolMultipleAwaits.csproj.CoreCompileInputs.cache
+C:\Users\pim\Desktop\Rc4jV_3wFi4-6a3463525f567733466934395239666a\CoolMultipleAwaits\obj\Debug\net8.0\CoolMultipleAwaits.dll
+C:\Users\pim\Desktop\Rc4jV_3wFi4-6a3463525f567733466934395239666a\CoolMultipleAwaits\obj\Debug\net8.0\refint\CoolMultipleAwaits.dll
+C:\Users\pim\Desktop\Rc4jV_3wFi4-6a3463525f567733466934395239666a\CoolMultipleAwaits\obj\Debug\net8.0\CoolMultipleAwaits.pdb
+C:\Users\pim\Desktop\Rc4jV_3wFi4-6a3463525f567733466934395239666a\CoolMultipleAwaits\obj\Debug\net8.0\CoolMultipleAwaits.genruntimeconfig.cache
+C:\Users\pim\Desktop\Rc4jV_3wFi4-6a3463525f567733466934395239666a\CoolMultipleAwaits\obj\Debug\net8.0\ref\CoolMultipleAwaits.dll
